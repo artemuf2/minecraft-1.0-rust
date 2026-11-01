@@ -1,0 +1,50 @@
+[package]
+name = "horizon-client"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# Локальные модули Horizon
+horizon-assets = { path = "../horizon-assets" }
+horizon-client-core = { path = "../horizon-client-core" }
+horizon-client-input = { path = "../horizon-client-input" }
+horizon-command = { path = "../horizon-command" }
+horizon-items = { path = "../horizon-items" }
+horizon-core = { path = "../horizon-core" }
+horizon-threads = { path = "../horizon-threads" }
+horizon-world = { path = "../horizon-world" }
+horizon-protocol = { path = "../horizon-protocol" }
+horizon-server-files = { path = "../horizon-server-files" }
+horizon-theme = { path = "../horizon-theme" }
+horizon-friends = { path = "../horizon-friends" }
+
+# Внешние зависимости
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1.0.151", features = ["raw_value"] }
+glam = "0.30"
+winit = "0.30.13"
+# wgpu = "30.0.1" # УБРАЛИ, так как gfx вырезан
+bytemuck = { version = "1.24", features = ["derive"] }
+log = "0.4"
+chrono = { version = "0.4.42", default-features = false, features = ["clock", "std"] }
+png = "0.18"
+ab_glyph = "0.2.32"
+symphonia = { version = "0.5", default-features = false, features = ["ogg", "vorbis"] }
+ureq = { version = "2", default-features = false, features = ["tls"] }
+unicode-bidi = "0.3.18"
+sha1 = "0.10"
+sha2 = "0.10.9"
+zip = { version = "2", default-features = false, features = ["deflate"] }
+flate2 = { version = "1.1.10", default-features = false, features = ["zlib-rs", "runtime_detection"] }
+miniz_oxide = "0.8"
+glow = "0.16"
+glutin = "0.32"
+glutin-winit = "0.5"
+raw-window-handle = "0.6"
+image = { version = "0.25", default-features = false, features = ["png"] }
+
+[build-dependencies]
+winresource = "0.1"
+[[bin]]
+name = "horizon-client"
+path = "src/main.rs"

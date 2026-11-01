@@ -1,0 +1,327 @@
+{
+  "stone": {
+    "top": "stone",
+    "side": "stone",
+    "bottom": "stone"
+  },
+  "cobblestone": {
+    "top": "cobblestone",
+    "side": "cobblestone",
+    "bottom": "cobblestone"
+  },
+  "mossy_cobblestone": {
+    "top": "cobblestone_mossy",
+    "side": "cobblestone_mossy",
+    "bottom": "cobblestone_mossy"
+  },
+  "dirt": {
+    "top": "dirt",
+    "side": "dirt",
+    "bottom": "dirt"
+  },
+  "grass_block": {
+    "top": "grass_top",
+    "side": "grass_side",
+    "bottom": "dirt"
+  },
+  "sand": {
+    "top": "sand",
+    "side": "sand",
+    "bottom": "sand"
+  },
+  "gravel": {
+    "top": "gravel",
+    "side": "gravel",
+    "bottom": "gravel"
+  },
+  "bedrock": {
+    "top": "bedrock",
+    "side": "bedrock",
+    "bottom": "bedrock"
+  },
+  "clay": {
+    "top": "clay",
+    "side": "clay",
+    "bottom": "clay"
+  },
+  "obsidian": {
+    "top": "obsidian",
+    "side": "obsidian",
+    "bottom": "obsidian"
+  },
+  "netherrack": {
+    "top": "netherrack",
+    "side": "netherrack",
+    "bottom": "netherrack"
+  },
+  "soul_sand": {
+    "top": "soul_sand",
+    "side": "soul_sand",
+    "bottom": "soul_sand"
+  },
+  "glowstone": {
+    "top": "glowstone",
+    "side": "glowstone",
+    "bottom": "glowstone"
+  },
+  "end_stone": {
+    "top": "end_stone",
+    "side": "end_stone",
+    "bottom": "end_stone"
+  },
+  "sponge": {
+    "top": "sponge",
+    "side": "sponge",
+    "bottom": "sponge"
+  },
+  "snow": {
+    "top": "snow",
+    "side": "snow",
+    "bottom": "snow"
+  },
+  "ice": {
+    "top": "ice",
+    "side": "ice",
+    "bottom": "ice"
+  },
+  "lapis_ore": {
+    "top": "lapis_ore",
+    "side": "lapis_ore",
+    "bottom": "lapis_ore"
+  },
+  "iron_block": {
+    "top": "block_iron",
+    "side": "block_iron",
+    "bottom": "block_iron"
+  },
+  "gold_block": {
+    "top": "block_gold",
+    "side": "block_gold",
+    "bottom": "block_gold"
+  },
+  "diamond_block": {
+    "top": "block_diamond",
+    "side": "block_diamond",
+    "bottom": "block_diamond"
+  },
+  "lapis_block": {
+    "top": "lapis_block",
+    "side": "lapis_block",
+    "bottom": "lapis_block"
+  },
+  "bricks": {
+    "top": "brick",
+    "side": "brick",
+    "bottom": "brick"
+  },
+  "stone_bricks": {
+    "top": "stonebrick",
+    "side": "stonebrick",
+    "bottom": "stonebrick"
+  },
+  "sandstone": {
+    "top": "sandstone_top",
+    "side": "sandstone_side",
+    "bottom": "sandstone_top"
+  },
+  "stone_slab": {
+    "top": "stone_slab_top",
+    "side": "stone_slab_side",
+    "bottom": "stone_slab_top"
+  },
+  "oak_log": {
+    "top": "log_oak_top",
+    "side": "log_oak",
+    "bottom": "log_oak_top"
+  },
+  "oak_planks": {
+    "top": "planks_oak",
+    "side": "planks_oak",
+    "bottom": "planks_oak"
+  },
+  "oak_leaves": {
+    "top": "leaves_oak",
+    "side": "leaves_oak",
+    "bottom": "leaves_oak"
+  },
+  "bookshelf": {
+    "top": "bookshelf",
+    "side": "bookshelf",
+    "bottom": "bookshelf"
+  },
+  "glass": {
+    "top": "glass",
+    "side": "glass",
+    "bottom": "glass"
+  },
+  "crafting_table": {
+    "top": "crafting_table_top",
+    "side": "crafting_table_side",
+    "bottom": "crafting_table_top"
+  },
+  "furnace": {
+    "top": "furnace_top",
+    "side": "furnace_side",
+    "bottom": "furnace_top"
+  },
+  "chest": {
+    "top": "chest_top",
+    "side": "chest_side",
+    "bottom": "chest_top"
+  },
+  "tnt": {
+    "top": "tnt_top",
+    "side": "tnt_side",
+    "bottom": "tnt_bottom"
+  },
+  "cactus": {
+    "top": "cactus_top",
+    "side": "cactus_side",
+    "bottom": "cactus_bottom"
+  },
+  "jack_o_lantern": {
+    "top": "lit_pumpkin",
+    "side": "lit_pumpkin",
+    "bottom": "lit_pumpkin"
+  },
+  "jukebox": {
+    "top": "jukebox_top",
+    "side": "jukebox_top",
+    "bottom": "jukebox_top"
+  },
+  "noteblock": {
+    "top": "noteblock",
+    "side": "noteblock",
+    "bottom": "noteblock"
+  },
+  "dispenser": {
+    "top": "dispenser_front",
+    "side": "dispenser_front",
+    "bottom": "dispenser_front"
+  },
+  "spawner": {
+    "top": "mob_spawner",
+    "side": "mob_spawner",
+    "bottom": "mob_spawner"
+  },
+  "dragon_egg": {
+    "top": "dragon_egg",
+    "side": "dragon_egg",
+    "bottom": "dragon_egg"
+  },
+  "tall_grass": {
+    "top": "tallgrass",
+    "side": "tallgrass",
+    "bottom": "tallgrass"
+  },
+  "fern": {
+    "top": "tallgrass_fern",
+    "side": "tallgrass_fern",
+    "bottom": "tallgrass_fern"
+  },
+  "dead_bush": {
+    "top": "deadbush",
+    "side": "deadbush",
+    "bottom": "deadbush"
+  },
+  "dandelion": {
+    "top": "flower_dandelion",
+    "side": "flower_dandelion",
+    "bottom": "flower_dandelion"
+  },
+  "poppy": {
+    "top": "flower_rose",
+    "side": "flower_rose",
+    "bottom": "flower_rose"
+  },
+  "brown_mushroom": {
+    "top": "mushroom_brown",
+    "side": "mushroom_brown",
+    "bottom": "mushroom_brown"
+  },
+  "red_mushroom": {
+    "top": "mushroom_red",
+    "side": "mushroom_red",
+    "bottom": "mushroom_red"
+  },
+  "sugar_cane": {
+    "top": "reeds",
+    "side": "reeds",
+    "bottom": "reeds"
+  },
+  "lily_pad": {
+    "top": "waterlily",
+    "side": "waterlily",
+    "bottom": "waterlily"
+  },
+  "oak_sapling": {
+    "top": "sapling_oak",
+    "side": "sapling_oak",
+    "bottom": "sapling_oak"
+  },
+  "spruce_sapling": {
+    "top": "sapling_spruce",
+    "side": "sapling_spruce",
+    "bottom": "sapling_spruce"
+  },
+  "jungle_sapling": {
+    "top": "sapling_jungle",
+    "side": "sapling_jungle",
+    "bottom": "sapling_jungle"
+  },
+  "redstone_torch": {
+    "top": "redstone_torch_on",
+    "side": "redstone_torch_on",
+    "bottom": "redstone_torch_on"
+  },
+  "redstone_torch_off": {
+    "top": "redstone_torch_off",
+    "side": "redstone_torch_off",
+    "bottom": "redstone_torch_off"
+  },
+  "lever": {
+    "top": "lever",
+    "side": "lever",
+    "bottom": "lever"
+  },
+  "repeater": {
+    "top": "repeater_on",
+    "side": "repeater_on",
+    "bottom": "repeater_on"
+  },
+  "repeater_off": {
+    "top": "repeater_off",
+    "side": "repeater_off",
+    "bottom": "repeater_off"
+  },
+  "rail": {
+    "top": "rail",
+    "side": "rail",
+    "bottom": "rail"
+  },
+  "powered_rail": {
+    "top": "rail",
+    "side": "rail",
+    "bottom": "rail"
+  },
+  "torch": {
+    "top": "torch",
+    "side": "torch",
+    "bottom": "torch"
+  },
+  "trapdoor": {
+    "top": "trapdoor",
+    "side": "trapdoor",
+    "bottom": "trapdoor"
+  },
+  "fence": {
+    "top": "planks_oak",
+    "side": "planks_oak",
+    "bottom": "planks_oak"
+  },
+  "white_wool": {
+    "top": "white_wool",
+    "side": "white_wool",
+    "bottom": "white_wool"
+  }
+}

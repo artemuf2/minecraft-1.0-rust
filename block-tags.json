@@ -1,0 +1,31 @@
+{
+  "minecraft:blocks_motion_in_heightmap": {
+    "values": [
+      "minecraft:stone",
+      "minecraft:dirt",
+      "minecraft:grass_block",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:cobblestone",
+      "minecraft:mossy_cobblestone",
+      "minecraft:clay",
+      "minecraft:bedrock"
+    ]
+  },
+  "minecraft:blocks_motion_in_heightmap_no_leaves": {
+    "values": [
+      "minecraft:stone",
+      "minecraft:dirt",
+      "minecraft:grass_block",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:cobblestone",
+      "minecraft:mossy_cobblestone",
+      "minecraft:clay",
+      "minecraft:bedrock"
+    ]
+  },
+  "minecraft:blocks_fluid_flow": {
+    "values": []
+  }
+}

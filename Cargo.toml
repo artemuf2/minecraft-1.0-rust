@@ -1,0 +1,29 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/horizon-core",
+    "crates/horizon-world",
+    "crates/horizon-assets",
+    "crates/horizon-client",
+    "crates/horizon-client-core",
+    "crates/horizon-client-input",
+    "crates/horizon-command",
+    "crates/horizon-items",
+    "crates/horizon-protocol",
+    "crates/horizon-server-files",
+    "crates/horizon-threads",
+    "crates/horizon-theme",
+    "crates/horizon-dualsense",
+]
+
+[workspace.package]
+edition = "2024"
+version = "0.1.0"
+license = "MIT"
+rust-version = "1.90"
+
+[workspace.lints.rust]
+unsafe_code = "warn"
+
+[workspace.lints.clippy]
+all = "warn"
